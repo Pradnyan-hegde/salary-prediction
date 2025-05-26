@@ -1,0 +1,12 @@
+Python 3.9.7
+
+conda create --name health-stroke Python=3.9.7
+
+
+ To activate this environment, use
+$ conda activate health-stroke
+
+ To deactivate an active environment, use
+#
+#     $ conda deactivate
+
